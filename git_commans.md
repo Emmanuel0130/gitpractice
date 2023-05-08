@@ -18,4 +18,4 @@ git commit: sirve para notificar los cambios realizados.
 
 git push: sirve para empujar al repositorio
 
-git merge: sirve para revolver las ramas
+git merge: sirve para revolver las ramas.
